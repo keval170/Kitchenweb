@@ -22,7 +22,7 @@
       "verified": true,
       "location": "Bangalore",
       "daysAgo": "1 day ago",
-      "images": ["https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"]
+      "images": ["https://m.media-amazon.com/images/I/91TNKYFbLIL.jpg","https://m.media-amazon.com/images/I/91lgjXwY43L.jpg"]
     },
     {
       "rating": 4,
@@ -32,7 +32,7 @@
       "verified": true,
       "location": "Chennai",
       "daysAgo": "2 days ago",
-      "images": ["https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"]
+      "images": ["https://m.media-amazon.com/images/I/91qD4vLTvyL.jpg"]
     },
     {
       "rating": 5,
@@ -42,7 +42,7 @@
       "verified": true,
       "location": "Pune",
       "daysAgo": "1 day ago",
-      "images": ["https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"]
+      "images": ["https://m.media-amazon.com/images/I/61A6DJwZkKL.jpg"]
     },
     {
       "rating": 5,
@@ -52,7 +52,7 @@
       "verified": true,
       "location": "Kolkata",
       "daysAgo": "2 days ago",
-      "images": ["https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"]
+      "images": ["hhttps://m.media-amazon.com/images/I/C1nspP9TmJS.jpg"]
     },
     {
       "rating": 4,
@@ -1420,3 +1420,4 @@
   ]
 }
 ]
+
