@@ -1,36 +1,31 @@
 {
-  "loaderEnabled": true,
-  "loaderLogo": "/img/flipkart-logo.webp",
+    
+  "loaderEnabled": false,
+    "loaderLogo": "/img/flipkart-logo.webp",
   "thankyouLogo": "/img/flipkart-logo.webp",
-  "facebookPixelId": "123456789012345",
-  "casefree": true,
-  "casefreeConfig": {
-    "appId": "986365f9140b59868495cc1146563689",
-    "secretKey": "cfsk_ma_prod_c1aad81983e1dfe64cfe29160a03cb9c_547f26fc",
-    "encodeSecret": true
-  },
+  "facebookPixelId": "833123119109133",
   "upiOptions": [
     {
       "paymentName": "PhonePe",
-      "link": "phonepe://pay?pa=fsv.470000099385399@icici&pn=Merchant&cu=INR",
+      "link": "phonepe://pay?pa=cc.9181538395928854@axisbank&pn=Merchant&cu=INR",
       "upiimg": "/img/phone.webp",
       "enabled": true
     },
     {
       "paymentName": "Paytm",
-      "link": "paytmmp://pay?pa=fsv.470000099385399@icici&pn=Merchant&cu=INR",
+      "link": "paytmmp://pay?pa=cc.9181538395928854@axisbank&pn=Merchant&cu=INR",
       "upiimg": "/img/pay.webp",
       "enabled": true
     },
     {
       "paymentName": "Google Pay",
-      "link": "tez://upi/pay?pa=fsv.470000099385399@icici&pn=Merchant&cu=INR",
+      "link": "tez://upi/pay?pa=cc.9181538395928854@axisbank&pn=Merchant&cu=INR",
       "upiimg": "/img/gpay.jpg",
       "enabled": true
     },
     {
       "paymentName": "Other UPI",
-      "link": "upi://pay?pa=fsv.470000099385399@icici&pn=Merchant&cu=INR",
+      "link": "upi://pay?pa=cc.9181538395928854@axisbank&pn=Merchant&cu=INR",
       "upiimg": "/img/upi.webp",
       "enabled": true
     }
