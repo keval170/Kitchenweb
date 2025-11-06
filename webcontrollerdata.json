@@ -3,7 +3,7 @@
   "loaderLogo": "/img/flipkart-logo.webp",
   "thankyouLogo": "/img/flipkart-logo.webp",
   "facebookPixelId": "123456789012345",
-  "casefree": true,
+  "casefree": false,
   "casefreeConfig": {
     "appId": "986365f9140b59868495cc1146563689",
     "secretKey": "cfsk_ma_prod_c1aad81983e1dfe64cfe29160a03cb9c_547f26fc",
@@ -35,4 +35,5 @@
       "enabled": true
     }
   ]
+
 }
