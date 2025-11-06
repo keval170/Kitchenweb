@@ -1,6 +1,6 @@
 {
-  "short_name": “Kitchen Offers - Shop Now“,
-  "name": “Buy Now Kitchen Product with Big Discount”,
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
